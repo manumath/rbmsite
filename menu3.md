@@ -9,10 +9,10 @@
 
 **2. Misión.** RBM busca difundir trabajos originales e inéditos que incrementen el conocimiento matemático teórico y aplicado y la comprensión de problemas a través del modelamiento matemático como herramienta principal de análisis. Las áreas temáticas incluidas en la revista son:
 
--   Análisis
--   Álgebra
--   Geometría y Topología
--   Matemática Aplicada
+-   *Análisis*
+-   *Álgebra*
+-   *Geometría y Topología*
+-   *Matemática Aplicada*
 
 Entre otros temas de origen científico que puedan ser modelados y estudiados matemáticamente.
 
@@ -24,11 +24,11 @@ Además, busca valorizar la investigación científica producida en América Lat
 
 RBM publicará también volúmenes especiales que pueden ser dedicados a una temática específica o vinculados a un evento científico.
 
-**5. Alcance idiomático:** Español-Portugues-Inglés.
+**5. Alcance idiomático:** Español.
 
 **6. Política de publicación y acceso a los contenidos:** RBM tiene una política de acceso abierto (OA), bajo el principio de disponibilidad gratuita, a los productos de investigación para el público general.
 
-Bajo la licencia Creative Commons Reconocimiento 4.0 Internacional License (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/). A menos que se indique lo contrario.
+Bajo la licencia [Creative Commons Reconocimiento 4.0 Internacional License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). A menos que se indique lo contrario.
 
 **7. Para los autores.** se autoriza establecer copia en repositorios institucionales o personales, de preprint o posprint, siempre y cuando se cite la fuente o sitio institucional donde han sido publicados originalmente.
 

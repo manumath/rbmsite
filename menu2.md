@@ -13,7 +13,7 @@
 **Envío de los manuscritos:**
 
 1.  RBM publica artículos originales e inéditos (en español, portugues o inglés), por lo que el manuscrito sometido no puede estar publicado, total o parcialmente en otro medio.
-2.  Los autores interesados en presentar un trabajo a MMSB deben enviar una copia de su trabajo en formato PDF, procesado en LaTeX2e, a través del [**sistema de envío de la revista.**] que será implementado por el Comité Editorial
+2.  Los autores interesados en presentar un trabajo a MMSB deben enviar una copia de su trabajo en formato PDF, procesado en LaTeX2e, a través del **sistema de envío de la revista.** que será implementado por el Comité Editorial
 3.  El envío debe realizarlo el autor y, de tratarse de dos o más autores, debe designarse un autor correspondiente para ello, quien debe proporcionar correo electrónico y filiación institucional.
 4.  El autor correspondiente debe proporcionar el correo electrónico de todos los coautores con el fin de comprobar el consentimiento.
 5.  Los manuscritos deben contar con título, abstract y palabras claves en español e inglés.
