@@ -1,7 +1,7 @@
-@def title = "More goodies"
+@def title = "Normas de Publicación"
 @def hascode = true
-@def rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg)"
-@def rss_title = "More goodies"
+@def rss = "Normas de Publicación de la RBM"
+@def rss_title = "Normas RBM"
 @def rss_pubdate = Date(2019, 5, 1)
 
 @def tags = ["syntax", "code", "image"]
@@ -13,7 +13,7 @@
 **Envío de los manuscritos:**
 
 1.  RBM publica artículos originales e inéditos (en español, portugues o inglés), por lo que el manuscrito sometido no puede estar publicado, total o parcialmente en otro medio.
-2.  Los autores interesados en presentar un trabajo a MMSB deben enviar una copia de su trabajo en formato PDF, procesado en LaTeX2e, a través del **sistema de envío de la revista.** que será implementado por el Comité Editorial
+2.  Los autores interesados en presentar un trabajo a MMSB deben enviar una copia de su trabajo en formato PDF, procesado en LaTeX2e, a través del **sistema de envío de la revista**, que será implementado por el Comité Editorial
 3.  El envío debe realizarlo el autor y, de tratarse de dos o más autores, debe designarse un autor correspondiente para ello, quien debe proporcionar correo electrónico y filiación institucional.
 4.  El autor correspondiente debe proporcionar el correo electrónico de todos los coautores con el fin de comprobar el consentimiento.
 5.  Los manuscritos deben contar con título, abstract y palabras claves en español e inglés.

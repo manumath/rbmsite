@@ -1,8 +1,8 @@
 +++
-title = "Code blocks"
+title = "Comité Editorial"
 hascode = true
 date = Date(2019, 3, 22)
-rss = "Comité Editorial de la RBM"
+rss = "RBM"
 +++
 @def tags = ["comité", "editorial"]
 
