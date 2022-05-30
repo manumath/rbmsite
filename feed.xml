@@ -23,12 +23,12 @@
 
 <item>
   <title>
-    <![CDATA[  More goodies  ]]>
+    <![CDATA[  Normas RBM  ]]>
   </title>
   <link> https://revbolmat.fcpn.edu.bo/menu2/index.html </link>
   <guid> https://revbolmat.fcpn.edu.bo/menu2/index.html </guid>
   <description>
-    <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg" alt="" />  ]]>
+    <![CDATA[  Normas de Publicación de la RBM  ]]>
   </description>  
     
   <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>  
@@ -42,12 +42,12 @@
 
 <item>
   <title>
-    <![CDATA[  Code blocks  ]]>
+    <![CDATA[  La RBM  ]]>
   </title>
-  <link> https://revbolmat.fcpn.edu.bo/menu1/index.html </link>
-  <guid> https://revbolmat.fcpn.edu.bo/menu1/index.html </guid>
+  <link> https://revbolmat.fcpn.edu.bo/rbm/index.html </link>
+  <guid> https://revbolmat.fcpn.edu.bo/rbm/index.html </guid>
   <description>
-    <![CDATA[  Comité Editorial de la RBM  ]]>
+    <![CDATA[  RBM  ]]>
   </description>  
     
   <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
@@ -61,12 +61,50 @@
 
 <item>
   <title>
-    <![CDATA[  Code blocks  ]]>
+    <![CDATA[  Comité Editorial  ]]>
+  </title>
+  <link> https://revbolmat.fcpn.edu.bo/menu1/index.html </link>
+  <guid> https://revbolmat.fcpn.edu.bo/menu1/index.html </guid>
+  <description>
+    <![CDATA[  RBM  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Revista Boliviana de Matemática</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  La RBM  ]]>
+  </title>
+  <link> https://revbolmat.fcpn.edu.bo/numeros/index.html </link>
+  <guid> https://revbolmat.fcpn.edu.bo/numeros/index.html </guid>
+  <description>
+    <![CDATA[  RBM  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Revista Boliviana de Matemática</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Contacto  ]]>
   </title>
   <link> https://revbolmat.fcpn.edu.bo/menu4/index.html </link>
   <guid> https://revbolmat.fcpn.edu.bo/menu4/index.html </guid>
   <description>
-    <![CDATA[  Comité Editorial de la RBM  ]]>
+    <![CDATA[  Contácte a la RBM  ]]>
   </description>  
     
   <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
