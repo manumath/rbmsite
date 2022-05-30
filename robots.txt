@@ -1,0 +1,4 @@
+Sitemap: https://revbolmat.fcpn.edu.bo/sitemap.xml
+
+User-agent: *
+Disallow:

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Revista Boliviana de Matemática  ]]>
+    </title>
+    <link> https://revbolmat.fcpn.edu.bo </link>
+    <description>
+      <![CDATA[  Sitio web oficial de la RBM  ]]>
+    </description>
+    <atom:link
+      href="https://revbolmat.fcpn.edu.bo/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Code blocks  ]]>
+  </title>
+  <link> https://revbolmat.fcpn.edu.bo/menu1/index.html </link>
+  <guid> https://revbolmat.fcpn.edu.bo/menu1/index.html </guid>
+  <description>
+    <![CDATA[  Comité Editorial de la RBM  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Revista Boliviana de Matemática</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Code blocks  ]]>
+  </title>
+  <link> https://revbolmat.fcpn.edu.bo/menu4/index.html </link>
+  <guid> https://revbolmat.fcpn.edu.bo/menu4/index.html </guid>
+  <description>
+    <![CDATA[  Comité Editorial de la RBM  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Revista Boliviana de Matemática</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
